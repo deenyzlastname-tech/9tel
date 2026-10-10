@@ -101,13 +101,13 @@
         "origin": false
       },
       "eas": {
-        "projectId": "eadad398-0cdc-4455-8c45-b6c5017e2489"
+        "projectId": "3c1e4312-6f22-489f-bf52-fde6ac13341a"
       }
     },
     "updates": {
       "enabled": true,
       "checkAutomatically": "ON_LOAD"
     },
-    "owner": "adamhub"
+    "owner": "livetest107"
   }
 }
